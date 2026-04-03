@@ -12,7 +12,7 @@ inputs 0 and 1 are connected to an and gate when inputs 0 and 1 are set to high,
 
 
 ## How to test
-flip switches 1 and 2
+flip switches 1 and 2, and the LED should turn on
 
 ## External hardware
-LED
+LEDs and switches
